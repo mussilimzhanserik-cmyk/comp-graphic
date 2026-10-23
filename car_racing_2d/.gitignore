@@ -1,0 +1,12 @@
+# Build output
+car_racing_2d
+build/
+*.o
+*.out
+
+# Local editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
