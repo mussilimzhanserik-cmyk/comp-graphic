@@ -1,3 +1,19 @@
+## Car Racing 2D ойыны
+
+Бұл репозиторийдегі C++ және OpenGL арқылы жасалған 2D жарыс ойыны. Төмендегі қысқа көрініс осы беттің ішінде көрсетіледі. Толық экран жазбасын ашу үшін видео сілтемесін бас.
+
+![Car Racing 2D ойынының көрінісі](car_racing_2d/gameplay_preview.gif)
+
+[▶ Толық ойын видеосын көру](car_racing_2d/gameplay.mp4)
+
+[Ойынның коды, есебі және түсіндірмесі](car_racing_2d/)
+
+---
+
+<details>
+<summary>Бұрынғы OpenGL тапсырмасының коды</summary>
+
+```cpp
 #include <glad/gl.h>
 #include <GLFW/glfw3.h>
 
@@ -259,3 +275,6 @@ int main()
 
     return 0;
 }
+```
+
+</details>
